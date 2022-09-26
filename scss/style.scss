@@ -1,0 +1,13 @@
+@import "_header";
+
+.nav__text {
+  padding: 40px;
+  font-size: 30px;
+  line-height: 500px;
+  h1{
+    color: red;
+    span{
+      color: green;
+    }
+  }
+}
